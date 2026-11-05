@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-carbon-accounting-react-native",
+  "capabilityKey": "liberusoftware/module-accounting-carbon-accounting",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-accounting-carbon-accounting-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/accounting/nextjs/carbon-accounting.md",
+  "presentationPlan": "projects/accounting/react-native/carbon-accounting.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
